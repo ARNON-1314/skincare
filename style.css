@@ -1,0 +1,166 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,
+body
+{
+    height: 100%;
+    width: 100%;
+}
+.head{
+    height: 150px;
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    gap: 25px;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 10px;
+    background-color: #000000;
+    border-bottom: 1px solid #ccc;
+    list-style-type: none;
+     font-size: 18px;
+     
+}
+.head .hh{
+    font-size: 50px;
+    font-weight: 400;
+    margin-right: 150px;
+ color: white;
+}
+a{
+    text-decoration: none;
+    color: white;
+    transition: color 0.3s ease;
+    cursor: pointer;
+}
+a:hover{
+    color: #CD1C61
+}
+.skin{
+margin-top: 100px;
+   width: 100%;
+   height: 800px;
+  background-size: 100% 100%;
+   position: absolute;
+   background-image: url(https://media.istockphoto.com/id/1399469980/photo/close-up-portrait-of-anorganic-facial-mask-application-at-spa-salon-facial-treatment-skin.jpg?s=612x612&w=0&k=20&c=ZvZi_bdGLicsykUtlrHgQe70ftZzd_xPKvq2vzfOyV0=
+   );
+}
+.wo{
+    color:burlywood;
+    margin-top: 15%;
+    margin-left: 6%;
+    font-size: 80px;
+}
+
+.price-items{
+  padding: 3px;
+    width: 40%;
+    background-color: #000000;
+    display: flex;
+   color: white;
+    align-items: start;
+    
+    margin: 5px 10px;
+    border-radius: 10px;
+  }
+.name{
+    margin-left: 20px;
+    font-size: 22px;
+}
+.price{
+    font-size: 22px;
+    margin-left: auto;
+    margin-right: 15px;
+}
+.adv{
+    margin-top: 1000px;
+     width: 100%;
+   height: 800px;
+  background-size: 100% 100%;
+   position: absolute;
+  
+    background-image: url(https://media.istockphoto.com/id/1316390190/photo/young-woman-doing-face-building-facial-gymnastics-self-massage-and-rejuvenating-exercises.jpg?s=612x612&w=0&k=20&c=17SaoMlYUj3r_V7BbBnrn9vtMnx5KHJ91bAKGXR7W8s=);
+}
+.price-item{
+    margin-top: 10px;
+  padding: 3px;
+    width: 40%;
+    background-color: #000000;
+    display: flex;
+   color: white;
+    font-size: 22px;
+    margin-left: 55%;
+   border-radius: 10px;
+  }
+  .names{
+    margin-left: 20px;
+    font-size: 22px;
+  }
+  .prices{
+    font-size: 22px;
+    margin-left: auto;
+    margin-right: 15px;
+  }
+.advance{
+    
+    margin-left:55% ;
+    color: burlywood;
+    margin-top: 35%;
+    
+    font-size: 80px;
+}.n {
+    margin-left: 20px;
+    font-size: 22px;
+    color: rgb(255, 159, 159);
+}
+.end{
+    
+    padding-top: 30px;
+    margin-top: 20px;
+gap: 20px;
+color: #fff;
+display: flex;
+justify-content: space-around ;
+}
+.infinity{
+    
+    width: 100%;
+    height: 100%;
+    background-color: #000000;
+}
+h1{
+    color: #ff006f;
+}
+.get{
+    width: 23%;
+}
+
+.get .pp{
+   
+    font-size: 15px;
+}
+.services a{ 
+    margin-top: 20px;
+    font-size: 30px;
+}
+.get a{
+    margin-left: 10px;
+    font-size: 20px;
+    margin-top: 40px;
+    }
+.get img{
+    margin-top: 10px;
+}
+.open pp{
+    margin-left: 10px;
+}
+.lo{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  margin-left: 100px;
+}
